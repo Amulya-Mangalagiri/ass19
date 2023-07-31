@@ -1,0 +1,8 @@
+D:\31-07\ass-19\ass-19\obj\Debug\ass-19.csproj.AssemblyReference.cache
+D:\31-07\ass-19\ass-19\obj\Debug\ass-19.csproj.SuggestedBindingRedirects.cache
+D:\31-07\ass-19\ass-19\obj\Debug\ass-19.csproj.CoreCompileInputs.cache
+D:\31-07\ass-19\ass-19\bin\Debug\ass-19.exe.config
+D:\31-07\ass-19\ass-19\bin\Debug\ass-19.exe
+D:\31-07\ass-19\ass-19\bin\Debug\ass-19.pdb
+D:\31-07\ass-19\ass-19\obj\Debug\ass-19.exe
+D:\31-07\ass-19\ass-19\obj\Debug\ass-19.pdb
